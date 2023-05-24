@@ -4,7 +4,7 @@ metadata:
   name: welcome-banner
 spec:
   backgroundColor: '#EE0000'
-  color: '#fff'
+  color: '#000'
   link:
     href: https://www.redhat.com/en/summit
     text: (Event Information)
